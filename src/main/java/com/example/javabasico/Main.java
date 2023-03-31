@@ -32,5 +32,6 @@ public class Main {
         AnteSuc anteSuc = new AnteSuc(44);
         anteSuc.antSuc();
 
+
     }
 }
